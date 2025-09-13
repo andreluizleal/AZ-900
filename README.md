@@ -54,8 +54,9 @@ Automação e segurança.
 A “regra dos 9” representa o percentual de tempo em que um serviço está disponível:
 
 SLA (%)	Tempo de inatividade por mês	Tempo de inatividade por ano
-99%	~7 horas e 18 minutos	~3 dias e 15 horas
-99.9%	~43 minutos	~8 horas e 45 minutos
-99.99%	~4 minutos	~52 minutos
-99.999%	~26 segundos	~5 minutos e 15 segundos
+99%	    ~7 horas e 18 minutos	        ~3 dias e 15 horas
+99.9%	  ~43 minutos	                  ~8 horas e 45 minutos
+99.99%	~4 minutos	                  ~52 minutos
+99.999%	~26 segundos	                ~5 minutos e 15 segundos
+
 Exemplo: O Azure Storage oferece SLA de 99.99%, enquanto Máquinas Virtuais com disponibilidade em zona podem chegar a 99.99% ou mais, dependendo da configuração.
